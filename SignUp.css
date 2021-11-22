@@ -1,0 +1,19 @@
+﻿body {
+
+}
+
+#message {
+    color: red;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    outline: none !important;
+    border-width: 1px;
+    box-shadow: 0 0 10px gray;
+}
