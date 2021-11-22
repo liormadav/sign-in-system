@@ -19,5 +19,5 @@ simple explanation about the sign in and sign up system
 15. open the signup.aspx.cs and paste there the appropriate code
 16. create another web forms file name"welcome.aspx"
 17. open the welcome.aspx file and paste there the appropriate code
-18. create a css file and paste there the appropriate code (the welcome.css code)
-19. open the signup.aspx.cs and paste there the appropriate code
+18. create a css file and paste there the appropriate code (the style.css code)
+19. open the welcome.aspx.cs and paste there the appropriate code
