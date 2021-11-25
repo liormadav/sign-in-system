@@ -5,7 +5,7 @@ simple explanation about the sign in and sign up system
 2. press right click on the file name in the soloution explorer
 3. add << new file << web << web forms
 4. change the name below to "signin.aspx" and press ok
-5. download the helper file and then add it to the project by right click on the soloution explorer
+5. download the helper file and then add it to the project by right click on the soloution explorer (and dont forget to connect the helper with the database by paste the link in attachfile
 6. add << existing file. Then upload the file from the place you saved it
 7. create a sql database name "UserTable" like the image below,
 ![image](https://user-images.githubusercontent.com/78039661/142929526-70db34ec-b069-4676-928b-2d70a67b859b.png)
